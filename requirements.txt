@@ -1,0 +1,7 @@
+matplotlib
+python_multipart
+diffusers
+peft
+streamlit
+locale
+pandas
